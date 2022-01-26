@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815640954421",
+    "project_id": "approulette-7e694",
+    "storage_bucket": "approulette-7e694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815640954421:android:a47835cefead8357b2537c",
+        "android_client_info": {
+          "package_name": "com.example.app_roulette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815640954421-s4rra5vecnnnl28dl1l1g6p2lipkepv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLINRRc96hmYxIeJ7q4iUoHpCAxk4i7LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815640954421-s4rra5vecnnnl28dl1l1g6p2lipkepv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
